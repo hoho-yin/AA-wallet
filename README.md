@@ -57,7 +57,7 @@ npm install
 
 ## ERC4337
 
-![erc4337.png](image/erc4337.png)
+![erc4337.png](aa-wallet-sol-main-3/image/erc4337.png)
 
 
 ## Doc
